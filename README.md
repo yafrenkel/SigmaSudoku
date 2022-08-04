@@ -51,3 +51,4 @@ boundary) for a suitable allocation 101 puzzles:
 7.75323967E8 (1 m 20 s 155 ms)  
 7.06454975E8 (1 m 11 s 838 ms)
 
+# SigmaSudoku
